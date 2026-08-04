@@ -8,9 +8,15 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Binary Search
 |  |
 | ------- |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
+## Ternary Search
+|  |
+| ------- |
+| [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 <!---LeetCode Topics End-->
