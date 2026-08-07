@@ -11,17 +11,20 @@ class Solution {
         while(left<right){
             int mid=left+(right-left)/2;
             int day=1;
-            int currwe=0;
+            int ans=0;
             for(int ele:weights){
-                if(currwe+ele>mid){
+                if(ans+ele>mid){
                     day++;
-                    currwe=ele;
+                    ans=ele;
                 }else{
-                    currwe+=ele;
+                    ans+=ele;
                 }
             }
-            if(day<=days) right=mid;
-            else left=mid+1;
+            if(day<=days){
+                right=mid;
+            }else{
+                left=mid+1;
+            }
         }
         return left;
     }
