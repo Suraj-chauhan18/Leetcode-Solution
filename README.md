@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -71,4 +72,5 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
