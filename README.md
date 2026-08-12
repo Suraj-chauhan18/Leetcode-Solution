@@ -50,6 +50,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -57,6 +58,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -70,6 +72,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
 | ------- |
@@ -88,4 +91,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+## DP on Trees
+|  |
+| ------- |
+| [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 <!---LeetCode Topics End-->
