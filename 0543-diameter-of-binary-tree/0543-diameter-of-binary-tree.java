@@ -24,7 +24,8 @@ class Solution {
         if(root==null) return 0;
         int left=diameter(root.left);
         int right=diameter(root.right);
-        ans=Math.max(ans,left+right);
+        int d=left+right;
+        ans=Math.max(ans,d);
         return Math.max(left,right)+1;
     }
 }
