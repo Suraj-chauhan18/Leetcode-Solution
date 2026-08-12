@@ -50,6 +50,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Depth-First Search
 |  |
@@ -58,6 +59,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Breadth-First Search
 |  |
@@ -72,6 +74,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
 ## Two Pointers
 |  |
@@ -95,4 +98,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0543-diameter-of-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0543-diameter-of-binary-tree) |
+## Binary Lifting
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
+## Lowest Common Ancestor
+|  |
+| ------- |
+| [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0236-lowest-common-ancestor-of-a-binary-tree) |
 <!---LeetCode Topics End-->
