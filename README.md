@@ -13,6 +13,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
