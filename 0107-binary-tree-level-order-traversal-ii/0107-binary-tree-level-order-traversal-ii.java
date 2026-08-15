@@ -29,9 +29,9 @@ class Solution {
                 if(n.right!=null) q.add(n.right);
 
               }
-              list.add(level);
+              list.add(0,level);
         }
-        Collections.reverse(list);
+        //Collections.reverse(list);
         return list;
     }
 }
