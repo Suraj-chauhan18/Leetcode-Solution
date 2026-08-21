@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -130,6 +131,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
