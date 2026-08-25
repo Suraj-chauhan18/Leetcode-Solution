@@ -29,6 +29,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## Binary Search
 |  |
 | ------- |
@@ -201,6 +202,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 ## String
 |  |
 | ------- |
