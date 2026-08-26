@@ -14,24 +14,23 @@
  * }
  */
 class Solution {
-    int preidx;
+    int postidx;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
-        preidx=postorder.length-1;
-        return solve(inorder,postorder,0,inorder.length-1);
+       postidx=inorder.length-1;
+       return solve(inorder,postorder,0,inorder.length-1);
     }
-    public TreeNode solve(int[]inorder,int[]postorder,int left,int right){
-        if(left>right){
-            return null;
-        }
-        int rootValue=postorder[preidx];
-        TreeNode root=new TreeNode(rootValue);
-        int idx=left;
-        preidx--;
-        while(inorder[idx]!=rootValue){
+    public TreeNode solve(int[] inorder,int[]postorder,int left,int right){
+         if(left>right) return null;
+         int rootval=postorder[postidx];
+         TreeNode root =new TreeNode(rootval);
+         int idx=left;
+          postidx--;
+         while(inorder[idx]!=rootval){
             idx++;
-        }
-        root.right=solve(inorder,postorder,idx+1,right);
-        root.left=solve(inorder,postorder,left,idx-1);
-        return root;
+         }
+        
+         root.right=solve(inorder,postorder,idx+1,right);
+         root.left=solve(inorder,postorder,left,idx-1);
+         return root;
     }
 }
