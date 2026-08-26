@@ -210,6 +210,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
 | ------- |
@@ -217,6 +218,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Prefix Sum
 |  |
 | ------- |
