@@ -14,8 +14,12 @@
  * }
  */
 class Solution {
+    HashMap<Integer,Integer> map=new HashMap<>();
     int postidx=0;
     public TreeNode buildTree(int[] inorder, int[] postorder) {
+        for(int i=0;i<inorder.length;i++){
+            map.put(inorder[i],i);
+        }
        postidx=postorder.length-1;
        return solve(inorder,postorder,0,inorder.length-1);
     }
@@ -23,12 +27,9 @@ class Solution {
          if(left>right) return null;
          int rootval=postorder[postidx--];
          TreeNode root=new TreeNode(rootval);
-         int idx=left;
-         while(inorder[idx]!=rootval){
-            idx++;
-         }
-         root.right=solve(inorder,postorder,idx+1,right);
-         root.left=solve(inorder,postorder,left,idx-1);
+         int mid=map.get(rootval);
+         root.right=solve(inorder,postorder,mid+1,right);
+         root.left=solve(inorder,postorder,left,mid-1);
          return root;
     }
 }
