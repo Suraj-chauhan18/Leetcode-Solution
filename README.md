@@ -9,6 +9,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
+| [0046-permutations](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0046-permutations) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
@@ -233,6 +234,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Backtracking
 |  |
 | ------- |
+| [0046-permutations](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0046-permutations) |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
