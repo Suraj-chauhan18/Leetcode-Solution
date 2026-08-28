@@ -14,19 +14,20 @@
  * }
  */
 class Solution {
-    int max=-1;
     public List<Integer> rightSideView(TreeNode root) {
-        List<Integer> list=new ArrayList<>();
-        right(root,0,list);
+      List<Integer> list=new ArrayList<>();
+      if(root==null) return list;
+      Queue<TreeNode> q=new ArrayDeque<>();
+      q.offer(root);
+      while(q.size()>0){
+        int size=q.size();
+        for(int i=1;i<=size;i++){
+            TreeNode n=q.poll();
+            if(i==size) list.add(n.val);
+            if(n.left!=null) q.offer(n.left);
+            if(n.right!=null) q.offer(n.right);
+        }
+      }
         return list;
-    }
-    void right(TreeNode root,int level,List<Integer> list){
-        if(root==null) return;
-        if(max<level){
-            max=level;
-            list.add(root.val);
-        }level++;
-        right(root.right,level,list);
-        right(root.left,level,list);
     }
 }
