@@ -197,6 +197,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 ## Recursion
 |  |
 | ------- |
@@ -268,4 +269,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
+## Simulation
+|  |
+| ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
