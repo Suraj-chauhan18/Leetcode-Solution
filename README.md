@@ -11,6 +11,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0035-search-insert-position) |
 | [0046-permutations](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
@@ -167,6 +168,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -243,6 +245,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
 | [0113-path-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0113-path-sum-ii) |
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
