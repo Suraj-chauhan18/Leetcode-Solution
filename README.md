@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Binary Search
 |  |
 | ------- |
@@ -209,6 +210,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 ## Recursion
 |  |
 | ------- |
