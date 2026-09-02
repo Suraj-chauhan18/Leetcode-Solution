@@ -109,6 +109,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0563-binary-tree-tilt](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Binary Tree
 |  |
 | ------- |
@@ -294,4 +296,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+## Union-Find
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
+## Graph Theory
+|  |
+| ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 <!---LeetCode Topics End-->
