@@ -37,6 +37,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
@@ -67,6 +68,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
+| [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 ## Tree
 |  |
 | ------- |
@@ -183,6 +185,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0905-sort-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
+| [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 ## DP on Trees
 |  |
 | ------- |
