@@ -42,6 +42,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Binary Search
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
+| [3904-smallest-stable-index-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3904-smallest-stable-index-ii) |
 ## Backtracking
 |  |
 | ------- |
