@@ -116,6 +116,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0563-binary-tree-tilt](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0563-binary-tree-tilt) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
@@ -131,6 +132,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0841-keys-and-rooms](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -319,6 +321,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Graph Theory
 |  |
 | ------- |
+| [0841-keys-and-rooms](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0841-keys-and-rooms) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Algorithm X
 |  |
