@@ -10,12 +10,10 @@ class Solution {
         return true;
     }
     public void dfs(int room,List<List<Integer>> rooms,boolean[]visited){
-        if(visited[room]){
-            return;
-        }
+       
         visited[room]=true;
         for(int n:rooms.get(room)){
-
+            if(!visited[n])
                 dfs(n,rooms,visited);
             
         }
