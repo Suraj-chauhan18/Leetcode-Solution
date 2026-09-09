@@ -33,6 +33,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [0905-sort-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
+| [0994-rotting-oranges](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
@@ -137,6 +138,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0841-keys-and-rooms](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0841-keys-and-rooms) |
+| [0994-rotting-oranges](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Binary Tree
@@ -337,6 +339,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0994-rotting-oranges](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
