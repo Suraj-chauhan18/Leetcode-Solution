@@ -33,7 +33,6 @@ class Solution {
         }
         min++;
       } 
-      if(fresh>0) return -1;
-      else return min;
+       return fresh > 0 ? -1 : min;
     }
 }
