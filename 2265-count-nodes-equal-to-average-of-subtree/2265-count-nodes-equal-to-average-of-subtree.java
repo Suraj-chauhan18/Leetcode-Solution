@@ -14,19 +14,21 @@
  * }
  */
 class Solution {
-     int ans=0;
+    
     public int averageOfSubtree(TreeNode root) {
-     dfs(root);
-     return ans;
+        
+     return dfs(root)[2];
+     
     }
     public int[] dfs(TreeNode root){
-        if(root==null) return new int[]{0,0};
+        if(root==null) return new int[]{0,0,0};
         int[]left=dfs(root.left);
         int[]right=dfs(root.right);
         int sum=left[0]+right[0]+root.val;
         int count=left[1]+right[1]+1;
+        int ans=left[2]+right[2];
         if(sum/count==root.val) ans++;
 
-        return new int[]{sum,count};
+        return new int[]{sum,count,ans};
     }
 }
