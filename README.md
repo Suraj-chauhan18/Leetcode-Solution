@@ -28,6 +28,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
+| [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -356,10 +357,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 ## Monotonic Stack
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 ## Enumeration
 |  |
 | ------- |
