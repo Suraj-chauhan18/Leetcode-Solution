@@ -24,6 +24,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
@@ -76,6 +77,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Counting
 |  |
 | ------- |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 ## Tree
@@ -191,6 +193,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +206,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
@@ -256,6 +260,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -367,4 +372,16 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
