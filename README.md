@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
+| [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -286,6 +287,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [3903-smallest-stable-index-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
