@@ -198,6 +198,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Dynamic Programming
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
@@ -272,6 +273,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0020-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
@@ -296,6 +298,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Backtracking
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0040-combination-sum-ii) |
 | [0046-permutations](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0046-permutations) |
@@ -392,4 +395,5 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0020-valid-parentheses) |
+| [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
