@@ -202,6 +202,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -279,6 +280,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0344-reverse-string) |
