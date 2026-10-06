@@ -201,6 +201,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0022-generate-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -245,6 +246,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3870-count-commas-in-range](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
@@ -410,4 +412,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+## Combinatorics
+|  |
+| ------- |
+| [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 <!---LeetCode Topics End-->
