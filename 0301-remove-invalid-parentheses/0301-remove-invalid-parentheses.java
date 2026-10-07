@@ -20,20 +20,20 @@ class Solution {
            sb.deleteCharAt(sb.length()-1);
 }
     public static boolean possible(String sb){
-        Stack<Character> st=new Stack<>();
+        int open=0;
+        int close=0;
         for(int i=0;i<sb.length();i++){
-
-            
-            if(sb.charAt(i)=='(') st.push('(');
-
-            else if(sb.charAt(i)==')'){
-                if(st.isEmpty()) return false;
-                else{
-                    st.pop();
+            if(sb.charAt(i)=='('){
+                open++;
+            }else if(sb.charAt(i)==')'){
+                if(open==0){
+                    close++;
+                }else{
+                    open--;
                 }
             }
         }
-        return st.isEmpty();
+        return open+close==0;
 }
  public static int minremoval(String s){
         int open=0;
