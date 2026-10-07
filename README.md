@@ -22,6 +22,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
+| [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -205,6 +206,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
@@ -372,6 +374,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Matrix
 |  |
 | ------- |
+| [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
