@@ -290,6 +290,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0344-reverse-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 ## Sliding Window
 |  |
@@ -387,6 +388,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Monotonic Stack
 |  |
 | ------- |
@@ -416,6 +418,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1021-remove-outermost-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
 ## Greedy
 |  |
 | ------- |
