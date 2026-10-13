@@ -32,6 +32,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
@@ -208,6 +209,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
+| [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
