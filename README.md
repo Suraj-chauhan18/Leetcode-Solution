@@ -49,6 +49,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3718-smallest-missing-multiple-of-k) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
 | [3876-construct-uniform-parity-array-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3876-construct-uniform-parity-array-ii) |
 | [3903-smallest-stable-index-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3903-smallest-stable-index-i) |
@@ -219,6 +220,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## DP on Trees
 |  |
 | ------- |
@@ -427,6 +429,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
 | ------- |
