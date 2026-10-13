@@ -16,9 +16,8 @@ class Solution {
             left++;
             right--;
         }  
-        if(arr.length%2==1){
-            int mid=left+(right-left);
-            sum+=arr[mid]*arr[mid];
+        if(left==right){
+            sum+=arr[left]*arr[left];
         }
         return sum;  
     }
