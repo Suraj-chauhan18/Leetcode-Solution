@@ -259,6 +259,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3870-count-commas-in-range](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3870-count-commas-in-range) |
 | [3871-count-commas-in-range-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3871-count-commas-in-range-ii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3875-construct-uniform-parity-array-i) |
@@ -435,6 +436,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
+| [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Combinatorics
 |  |
