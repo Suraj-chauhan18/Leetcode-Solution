@@ -1,59 +1,60 @@
 class Solution {
      static class DSU{
-        int[] parent;
+        int [] parent;
         int[] rank;
         DSU(int n){
-            parent=new int[n+1];
-            rank=new int[n+1];
-            for(int i=0;i<=n;i++){
+            parent=new int[n];
+            rank=new int[n];
+            for(int i=0;i<n;i++){
                 parent[i]=i;
             }
-        }
-        int find(int x){
+        }int find(int x){
             if(parent[x]!=x){
                 parent[x]=find(parent[x]);
-
             }
-             return parent[x];
+            return parent[x];
         }
         boolean union(int a,int b){
             int rootA=find(a);
             int rootB=find(b);
-            if(rootA==rootB) return false;
+            if(rootA==rootB){
+                return false;
+            }
             if(rank[rootA]<rank[rootB]){
                 parent[rootA]=rootB;
             }
             else if(rank[rootA]>rank[rootB]){
                 parent[rootB]=rootA;
             }else{
-                parent[rootB]=rootA;
+                parent[rootA]=rootB;
                 rank[rootA]++;
             }
             return true;
         }
-    
+        
      }
     public int minCostConnectPoints(int[][] points) {
-        DSU dsu=new DSU(points.length);
-        int n=points.length;
-        int[][]edges=new int[(n*(n-1))/2][3];
-        int idx=0;
-        for(int i=0;i<points.length;i++){
-            for(int j=i+1;j<points.length;j++){
-                int weight=Math.abs(points[i][0]-points[j][0])+Math.abs(points[i][1]-points[j][1]);
-                edges[idx++]=new int[]{i,j,weight};
-            }
+      int n=points.length;
+      DSU dsu=new DSU(n);
+      int[][] edges=new int[(n*(n-1))/2][3];
+      int idx=0;
+      for(int i=0;i<n;i++){
+        for(int j=i+1;j<n;j++){
+            int weight=Math.abs(points[i][0]-points[j][0])+Math.abs(points[i][1]-points[j][1]);
+            edges[idx++]=new int[]{i,j,weight};
         }
-        Arrays.sort(edges,(a,b)->Integer.compare(a[2],b[2]));
-        int mst=0;
-        int count=0;
-        for(int [] edge:edges){
-            if(dsu.union(edge[0],edge[1])){
-                mst+=edge[2];
-                count++;
-            }
-           if(count==points.length-1) break;
-        }
-        return mst;
+      
+      }
+      Arrays.sort(edges,(a,b)-> Integer.compare(a[2],b[2]));
+      int mst=0;
+      int count=0;
+      for(int[] edge:edges){
+      if(dsu.union(edge[0],edge[1])){
+        mst+=edge[2];
+        count++;
+      }
+      if(count==n-1) break;
+      }
+      return mst;
     }
 }
