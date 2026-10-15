@@ -3,19 +3,14 @@ class Solution {
         int sum=0;
         int n=nums.size();
         for(int i=0;i<n;i++){
-            for(int j=i;j<n;j++){
             HashSet<Integer> set=new HashSet<>();
-                for(int k=i;k<=j;k++){
-                  set.add(nums.get(k));
-               
-            }
-
-            int a=set.size();
-            sum+=a*a;
-
-            }
+            for(int j=i;j<n;j++){
+                set.add(nums.get(j));
+                int a=set.size();
+                sum+=a*a;
+             }
+         }
             
-        }
         
         return sum;
     }
