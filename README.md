@@ -43,6 +43,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1470-shuffle-the-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1913-maximum-product-difference-between-two-pairs) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
@@ -370,6 +371,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0547-number-of-provinces](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0684-redundant-connection) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Graph Theory
 |  |
@@ -377,6 +379,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0547-number-of-provinces](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0684-redundant-connection](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0684-redundant-connection) |
 | [0841-keys-and-rooms](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0841-keys-and-rooms) |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1971-find-if-path-exists-in-graph) |
 ## Algorithm X
 |  |
@@ -442,4 +445,20 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
+## Minimum Spanning Tree
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
+## Prim's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
+## Kruskal's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
+## Borůvka's Algorithm
+|  |
+| ------- |
+| [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
 <!---LeetCode Topics End-->
