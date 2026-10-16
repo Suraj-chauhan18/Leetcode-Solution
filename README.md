@@ -213,6 +213,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
+| [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -259,6 +260,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
 | [2169-count-operations-to-obtain-zero](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2169-count-operations-to-obtain-zero) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -270,6 +272,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
 ## Hash Table
 |  |
@@ -471,4 +474,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
