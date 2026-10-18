@@ -194,6 +194,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0905-sort-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
 | [0977-squares-of-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0977-squares-of-a-sorted-array) |
@@ -303,6 +304,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0257-binary-tree-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0257-binary-tree-paths) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
 | [0344-reverse-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
