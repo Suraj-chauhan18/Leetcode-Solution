@@ -2,22 +2,26 @@ class Solution {
     public int findCircleNum(int[][] isConnected) {
         int count=0;
         boolean[] vis=new boolean[isConnected.length];
+        
         for(int i=0;i<isConnected.length;i++){
           if(!vis[i]){
              count++;
-            dfs(isConnected,i,vis);
+             Queue<Integer> q=new ArrayDeque<>();
+             q.offer(i);
+             vis[i]=true;
+             while(!q.isEmpty()){
+                int node=q.poll();
+                for(int j=0;j<isConnected.length;j++){
+                    if(isConnected[node][j]==1 && !vis[j]){
+                        vis[j]=true;
+                        q.offer(j);
+                    }
+                }
+             }
            
           }
         }
           return count;
         }
-    
-        public void dfs(int[][] edge,int src,boolean[] vis){
-            vis[src]=true;
-            for(int ele=0;ele<edge.length;ele++){
-                 if(edge[src][ele]==1&& !vis[ele])
-                  dfs(edge,ele,vis);
-                }
-            }
-        }
+    }
    
