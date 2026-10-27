@@ -1,13 +1,16 @@
 class Solution {
     public int rob(int[] nums) {
+    
      int n=nums.length;
-     if(n<=1) return nums[0];
-     int[] dp=new int[n];
-     dp[0]=nums[0];
-     dp[1]=Math.max(nums[0],nums[1]);
-     for(int i=2;i<n;i++){
-        dp[i]=Math.max(dp[i-1],dp[i-2]+nums[i]);
-     }
-   return dp[n-1];
+     int[] dp=new int[n+1];
+     Arrays.fill(dp,-1);
+     return solve(nums,0,n,dp);
+    }
+    public int solve(int[] nums,int idx,int n,int[]dp){
+        if(idx>=n) return 0;
+        if(dp[idx]!=-1) return dp[idx];
+        int take=nums[idx]+solve(nums,idx+2,n,dp);
+        int skip=solve(nums,idx+1,n,dp);
+        return dp[idx]=Math.max(take,skip);
     }
 }
