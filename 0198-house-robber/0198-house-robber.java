@@ -4,7 +4,8 @@ class Solution {
      int n=nums.length;
      int[] dp=new int[n+1];
      Arrays.fill(dp,-1);
-     return solve(nums,0,n,dp);
+     solve(nums,0,n,dp);
+     return dp[0];
     }
     public int solve(int[] nums,int idx,int n,int[]dp){
         if(idx>=n) return 0;
