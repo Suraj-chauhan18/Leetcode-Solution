@@ -3,9 +3,8 @@ class Solution {
         int n=cost.length;
         int[] dp=new int[n];
         Arrays.fill(dp,-1);
-        int a=solve(cost,0,n,dp);
-        int b=solve(cost,1,n,dp);
-        return Math.min(a,b);
+        solve(cost,0,n,dp);
+        return Math.min(dp[0],dp[1]);
     }
     int solve(int[] cost,int idx,int n,int[]dp){
         if(idx>=n) return 0;
