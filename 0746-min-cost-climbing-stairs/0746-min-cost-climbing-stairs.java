@@ -4,7 +4,6 @@ class Solution {
         int[] dp=new int[n];
         Arrays.fill(dp,-1);
         int a=solve(cost,0,n,dp);
-        Arrays.fill(dp,-1);
         int b=solve(cost,1,n,dp);
         return Math.min(a,b);
     }
