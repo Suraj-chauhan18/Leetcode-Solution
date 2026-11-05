@@ -36,6 +36,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
 | [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
+| [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0875-koko-eating-bananas](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0875-koko-eating-bananas) |
@@ -230,6 +231,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0213-house-robber-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -304,6 +306,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0904-fruit-into-baskets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0904-fruit-into-baskets) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
 | [3483-unique-3-digit-even-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3483-unique-3-digit-even-numbers) |
