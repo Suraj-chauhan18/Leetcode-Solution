@@ -222,6 +222,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
+| [0070-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0091-decode-ways) |
 | [0115-distinct-subsequences](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0115-distinct-subsequences) |
 | [0120-triangle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0120-triangle) |
@@ -279,6 +280,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0070-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0233-number-of-digit-one](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [1688-count-of-matches-in-tournament](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1688-count-of-matches-in-tournament) |
@@ -504,5 +506,6 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Memoization
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
