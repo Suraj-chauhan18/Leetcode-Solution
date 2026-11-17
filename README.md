@@ -23,6 +23,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0120-triangle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0120-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0136-single-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0136-single-number) |
 | [0162-find-peak-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0162-find-peak-element) |
 | [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
 | [0198-house-robber](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0198-house-robber) |
@@ -391,6 +392,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
+| [0136-single-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0136-single-number) |
 ## Simulation
 |  |
 | ------- |
