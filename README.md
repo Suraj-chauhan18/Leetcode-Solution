@@ -30,6 +30,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0213-house-robber-ii) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
+| [0260-single-number-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
@@ -393,6 +394,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0136-single-number) |
+| [0260-single-number-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0260-single-number-iii) |
 ## Simulation
 |  |
 | ------- |
