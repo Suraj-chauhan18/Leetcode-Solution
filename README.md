@@ -51,6 +51,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [1004-max-consecutive-ones-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1004-max-consecutive-ones-iii) |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1011-capacity-to-ship-packages-within-d-days) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1470-shuffle-the-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1470-shuffle-the-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1584-min-cost-to-connect-all-points](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1584-min-cost-to-connect-all-points) |
@@ -241,6 +242,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
 |  |
@@ -438,6 +440,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0994-rotting-oranges](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0994-rotting-oranges) |
 | [1091-shortest-path-in-binary-matrix](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1091-shortest-path-in-binary-matrix) |
+| [1277-count-square-submatrices-with-all-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [2596-check-knight-tour-configuration](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2596-check-knight-tour-configuration) |
 ## Stack
 |  |
