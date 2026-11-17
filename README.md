@@ -30,6 +30,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0198-house-robber](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0213-house-robber-ii) |
+| [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
@@ -96,6 +97,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [2529-maximum-count-of-positive-integer-and-negative-integer](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2529-maximum-count-of-positive-integer-and-negative-integer) |
 | [3467-transform-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/3467-transform-array-by-parity) |
@@ -246,6 +248,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0905-sort-array-by-parity](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0905-sort-array-by-parity) |
@@ -311,6 +314,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -521,4 +525,5 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
+| [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
