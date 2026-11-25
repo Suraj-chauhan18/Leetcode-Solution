@@ -16,16 +16,19 @@
 class Solution {
     public boolean isValidBST(TreeNode root) {
         List<Integer> list=new ArrayList<>();
-        fun(root,list);
+        solve(root,list);
         for(int i=1;i<list.size();i++){
-            if(list.get(i)<=list.get(i-1)) return false;
+            if(list.get(i)<=list.get(i-1)){
+                return false;
+            }
         }
         return true;
+        
     }
-    public void fun(TreeNode root,List<Integer> list){
+    void solve(TreeNode root,List<Integer> list){
         if(root==null) return;
-        fun(root.left,list);
+        solve(root.left,list);
         list.add(root.val);
-        fun(root.right,list);
+        solve(root.right,list);
     }
 }
