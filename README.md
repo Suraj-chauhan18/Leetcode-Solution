@@ -35,6 +35,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0238-product-of-array-except-self](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0260-single-number-iii) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
+| [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
@@ -169,6 +170,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0301-remove-invalid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0301-remove-invalid-parentheses) |
+| [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0547-number-of-provinces](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0547-number-of-provinces) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0653-two-sum-iv-input-is-a-bst) |
@@ -242,6 +244,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0198-house-robber](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0213-house-robber-ii) |
 | [0233-number-of-digit-one](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
+| [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
 | [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
@@ -538,4 +541,12 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
+## Knapsack Problem
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
+## Complete Knapsack
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
