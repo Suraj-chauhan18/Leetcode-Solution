@@ -252,6 +252,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
+| [1143-longest-common-subsequence](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
 | [1749-maximum-absolute-sum-of-any-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1749-maximum-absolute-sum-of-any-subarray) |
 ## Sorting
@@ -357,6 +358,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [1021-remove-outermost-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1021-remove-outermost-parentheses) |
+| [1143-longest-common-subsequence](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [2124-check-if-all-as-appears-before-all-bs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2124-check-if-all-as-appears-before-all-bs) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -556,4 +558,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
+## Longest Common Subsequence
+|  |
+| ------- |
+| [1143-longest-common-subsequence](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
 <!---LeetCode Topics End-->
