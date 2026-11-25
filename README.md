@@ -215,6 +215,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
+| [0141-linked-list-cycle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0283-move-zeroes](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0345-reverse-vowels-of-a-string) |
@@ -297,6 +298,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0002-add-two-numbers) |
+| [0141-linked-list-cycle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 ## Math
 |  |
 | ------- |
@@ -327,6 +329,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0003-longest-substring-without-repeating-characters](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
+| [0141-linked-list-cycle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0229-majority-element-ii) |
 | [0242-valid-anagram](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0242-valid-anagram) |
@@ -562,4 +565,8 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [1143-longest-common-subsequence](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1143-longest-common-subsequence) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
