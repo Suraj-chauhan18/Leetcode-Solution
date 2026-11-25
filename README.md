@@ -39,6 +39,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0347-top-k-frequent-elements](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0347-top-k-frequent-elements) |
 | [0485-max-consecutive-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
+| [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0540-single-element-in-a-sorted-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0560-subarray-sum-equals-k) |
 | [0713-subarray-product-less-than-k](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0713-subarray-product-less-than-k) |
@@ -246,6 +247,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0233-number-of-digit-one](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0233-number-of-digit-one) |
 | [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
 | [0509-fibonacci-number](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0509-fibonacci-number) |
+| [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 | [0740-delete-and-earn](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0740-delete-and-earn) |
 | [0746-min-cost-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0746-min-cost-climbing-stairs) |
 | [1277-count-square-submatrices-with-all-ones](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/1277-count-square-submatrices-with-all-ones) |
@@ -545,8 +547,10 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 ## Complete Knapsack
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0322-coin-change) |
+| [0518-coin-change-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0518-coin-change-ii) |
 <!---LeetCode Topics End-->
