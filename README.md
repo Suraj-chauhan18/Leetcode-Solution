@@ -17,6 +17,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0051-n-queens](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
+| [0063-unique-paths-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0078-subsets](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0078-subsets) |
@@ -235,6 +236,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0053-maximum-subarray](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0053-maximum-subarray) |
 | [0062-unique-paths](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0062-unique-paths) |
+| [0063-unique-paths-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0091-decode-ways) |
@@ -449,6 +451,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Matrix
 |  |
 | ------- |
+| [0063-unique-paths-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0064-minimum-path-sum) |
 | [0174-dungeon-game](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0174-dungeon-game) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
