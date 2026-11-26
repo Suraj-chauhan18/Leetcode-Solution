@@ -7,6 +7,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0001-two-sum) |
+| [0015-3sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -211,6 +212,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -260,6 +262,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0015-3sum) |
 | [0047-permutations-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0047-permutations-ii) |
 | [0075-sort-colors](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0075-sort-colors) |
 | [0169-majority-element](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0169-majority-element) |
