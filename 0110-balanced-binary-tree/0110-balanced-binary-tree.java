@@ -14,16 +14,16 @@
  * }
  */
 class Solution {
-    boolean ans = true;
+    boolean flag=true;
     public boolean isBalanced(TreeNode root) {
-       height(root);
-       return ans;
+        fun(root);
+        return flag;
     }
-    public int height(TreeNode a){
-        if(a == null) return 0;
-        int left = height(a.left);
-        int right = height(a.right);
-        if(Math.abs(left-right)>1) ans = false;
-        return Math.max(left,right)+1;
+    int fun(TreeNode root){
+        if(root==null) return 0;
+        int lh=fun(root.left);
+        int rh=fun(root.right);
+        if(Math.abs(lh-rh)>1) flag=false;
+        return Math.max(lh,rh)+1;
     }
 }
