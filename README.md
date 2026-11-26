@@ -112,6 +112,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
@@ -139,6 +140,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
@@ -189,6 +191,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0098-validate-binary-search-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0098-validate-binary-search-tree) |
 | [0100-same-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0101-symmetric-tree) |
@@ -479,6 +482,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | ------- |
 | [0020-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
+| [0094-binary-tree-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
