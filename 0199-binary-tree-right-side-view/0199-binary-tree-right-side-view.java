@@ -16,17 +16,19 @@
 class Solution {
     int max=-1;
     public List<Integer> rightSideView(TreeNode root) {
-      List<Integer> list=new ArrayList<>();
-      solve(root,list,0);
-      return list;
+        List<Integer> list=new ArrayList<>();
+        solve(root,0,list);
+        return list;
+        
     }
-    public void solve(TreeNode root,List<Integer> list,int level){
+    void solve(TreeNode root,int level,List<Integer> list){
         if(root==null) return;
         if(max<level){
             max=level;
             list.add(root.val);
-        }level++;
-        solve(root.right,list,level);
-        solve(root.left,list,level);
+        }
+        level++;
+        solve(root.right,level,list);
+        solve(root.left,level,list);
     }
 }
