@@ -27,6 +27,7 @@ class Solution {
                 level.add(n.val);
                 if(n.left!=null) q.offer(n.left);
                 if(n.right!=null) q.offer(n.right);
+
             }
             list.add(level);
         }
