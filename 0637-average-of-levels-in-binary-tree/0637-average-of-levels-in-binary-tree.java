@@ -15,9 +15,9 @@
  */
 class Solution {
     public List<Double> averageOfLevels(TreeNode root) {
-        Queue<TreeNode> q=new ArrayDeque<>();
         List<Double> list=new ArrayList<>();
         if(root==null) return list;
+        Queue<TreeNode> q=new ArrayDeque<>();
         q.offer(root);
         while(q.size()>0){
             int size=q.size();
@@ -28,8 +28,7 @@ class Solution {
                 if(n.left!=null) q.offer(n.left);
                 if(n.right!=null) q.offer(n.right);
             }
-    
-           list.add(sum/size);
+            list.add(sum/size);
         }
         return list;
     }
