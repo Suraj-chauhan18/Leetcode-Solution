@@ -125,6 +125,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -148,6 +149,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
@@ -204,6 +206,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0110-balanced-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0110-balanced-binary-tree) |
 | [0112-path-sum](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0112-path-sum) |
 | [0113-path-sum-ii](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0113-path-sum-ii) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -483,6 +486,7 @@ A collection of my LeetCode solutions in Java, covering Data Structures and Algo
 | [0020-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0032-longest-valid-parentheses) |
 | [0094-binary-tree-inorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0094-binary-tree-inorder-traversal) |
+| [0144-binary-tree-preorder-traversal](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0144-binary-tree-preorder-traversal) |
 | [0496-next-greater-element-i](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/Suraj-chauhan18/Leetcode-Solution/tree/master/0856-score-of-parentheses) |
